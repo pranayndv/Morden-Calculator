@@ -1,0 +1,12 @@
+.bg-o{
+    background-color: orange;
+    color: white;
+}
+.bg-g{
+    background-color: rgb(47, 46, 45);
+    color: white;
+}
+.bg-t{
+    background-color: rgb(199, 194, 189);
+    color: rgb(1, 1, 1);
+}
